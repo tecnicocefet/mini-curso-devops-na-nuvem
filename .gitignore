@@ -1,2 +1,3 @@
 .terraform/
 kubernetes/awscliv2.zip
+backup/
